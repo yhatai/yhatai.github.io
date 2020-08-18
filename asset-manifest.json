@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91791a15.chunk.css",
+    "main.js": "/static/js/main.bd63b6b4.chunk.js",
+    "main.js.map": "/static/js/main.bd63b6b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84cfcdfc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84cfcdfc.js.map",
+    "static/js/2.226e04b4.chunk.js": "/static/js/2.226e04b4.chunk.js",
+    "static/js/2.226e04b4.chunk.js.map": "/static/js/2.226e04b4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.400b8a4b0fc4ad264e617b3d27dc3bd2.js": "/precache-manifest.400b8a4b0fc4ad264e617b3d27dc3bd2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.91791a15.chunk.css.map": "/static/css/main.91791a15.chunk.css.map",
+    "static/js/2.226e04b4.chunk.js.LICENSE.txt": "/static/js/2.226e04b4.chunk.js.LICENSE.txt",
+    "static/media/space.jpg": "/static/media/space.dd47e048.jpg",
+    "static/media/yhat-logo.png": "/static/media/yhat-logo.383fcde4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84cfcdfc.js",
+    "static/js/2.226e04b4.chunk.js",
+    "static/css/main.91791a15.chunk.css",
+    "static/js/main.bd63b6b4.chunk.js"
+  ]
+}
